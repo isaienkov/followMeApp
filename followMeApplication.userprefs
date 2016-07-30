@@ -1,1 +1,14 @@
-﻿<Properties StartupItem="followMeApplication\followMeApplication.csproj" />
+﻿<Properties StartupItem="followMeApplication\followMeApplication.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="followMeApplication\MainActivity.cs">
+    <Files>
+      <File FileName="followMeApplication\MainActivity.cs" Line="25" Column="4" />
+      <File FileName="followMeApplication\Resources\values\Strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.followMeApplication AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
